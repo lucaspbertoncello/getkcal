@@ -1,0 +1,15 @@
+{
+  "name": "getkcal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lucaspbertoncello/getkcal.git",
+  "author": "Lucas <lucasbertoncello1@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "npx serve ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
