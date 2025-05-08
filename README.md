@@ -18,7 +18,7 @@ This project focuses on practicing core front-end development concepts.
 To run the project locally, you can use:
 
 ```bash
-npm run dev
+yarn dev
 ```
 
 This command will start a local server using the `serve` package.
@@ -40,13 +40,13 @@ This command will start a local server using the `serve` package.
 3. Install dependencies:
 
     ```bash
-    npm install
+    yarn
     ```
 
 4. Start the project:
 
     ```bash
-    npm run dev
+    yarn dev
     ```
 
 The project will be available at `http://localhost:3000` (or another port shown in the terminal).
